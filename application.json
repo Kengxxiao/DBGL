@@ -1,0 +1,10 @@
+{
+    "latest": "ab8493e063dac4ef23b0e6ade658ff8d98ea4c7528f1697421c5e6fff95d46ea",
+    "builds": [
+        {
+            "build": "ab8493e063dac4ef23b0e6ade658ff8d98ea4c7528f1697421c5e6fff95d46ea",
+            "signature": "ecdecbd4e03d435d2360344c259b1881513d8355f6cfc5b28dcd137105844cfd",
+            "url": "https://raw.githubusercontent.com/Kengxxiao/DBGL/main/builds/ab8493e063dac4ef23b0e6ade658ff8d98ea4c7528f1697421c5e6fff95d46ea/dbgl.exe"
+        }
+    ]
+}
