@@ -1,10 +1,10 @@
 {
-    "latest": "ab8493e063dac4ef23b0e6ade658ff8d98ea4c7528f1697421c5e6fff95d46ea",
+    "latest": "2bdea1317c16d60bf3948166837c4118f5214283fbf8bdea628099994277ce5f",
     "builds": [
         {
-            "build": "ab8493e063dac4ef23b0e6ade658ff8d98ea4c7528f1697421c5e6fff95d46ea",
-            "signature": "ecdecbd4e03d435d2360344c259b1881513d8355f6cfc5b28dcd137105844cfd",
-            "url": "https://raw.githubusercontent.com/Kengxxiao/DBGL/main/builds/ab8493e063dac4ef23b0e6ade658ff8d98ea4c7528f1697421c5e6fff95d46ea/dbgl.exe"
+            "build": "2bdea1317c16d60bf3948166837c4118f5214283fbf8bdea628099994277ce5f",
+            "signature": "5dcab3d6ea0d1fcd89c385d26fb90348e1896e793a58cf0f22ac9418470a9f10",
+            "url": "https://raw.githubusercontent.com/Kengxxiao/DBGL/main/builds/2bdea1317c16d60bf3948166837c4118f5214283fbf8bdea628099994277ce5f/dbgl.exe"
         }
     ]
 }
