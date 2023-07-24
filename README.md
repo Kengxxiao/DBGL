@@ -1,5 +1,5 @@
 # DBGL  
-DBGL (DMM Browser Games Launcher) is a game launcher that can bypass the DMM Games region block, and supports both DMM and FANZA.  
+DBGL (DMM Browser Games Launcher) is a browser game launcher that can bypass the DMM Games region block, and supports both DMM and FANZA.  
 
 ## Usage  
 You can run the program directly and follow the prompts given, or use the CLI for automated operations.  
